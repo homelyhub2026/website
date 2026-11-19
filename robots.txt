@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://homelyhubnepal.com.np/sitemap.xml
